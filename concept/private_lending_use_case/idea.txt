@@ -1,0 +1,13 @@
+Idea copied from "Settle Up" (Android App)
+
+* private Blockchain of "good" Friends
+* Proof-of-Work ---Improv.---> Majority Vote (Signatures) 
+
+* Everyone can buy stuff (a beer, food, tickets) for others, if someone forgot their money.
+* Keep expanditures in private ledger to track debt
+* Later on, "good" friend might deny debt 
+    -> Signed transaction + validated Blockchain as proof
+
+Reuse Use Case:
+* Save meetings into ledger, too.
+* "good" friend might deny he heard of it -> ledger as proof
